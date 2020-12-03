@@ -1,3 +1,7 @@
 this is my first file in git hubx
+<<<<<<< HEAD
 this is the modification line in the file
 
+=======
+ths is the second line i added to the file
+>>>>>>> a195009e0da875d7200121b0d975eddfc8d92e96
